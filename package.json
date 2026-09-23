@@ -1,0 +1,17 @@
+{
+  "name": "golddigger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Georgios Kousalidis",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^10.0.10",
+    "pdfkit": "^0.20.2"
+  }
+}
