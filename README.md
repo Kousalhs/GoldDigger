@@ -1,4 +1,4 @@
-# GoldDigger App
+# GoldDigger
 
 A fully responsive, accessible web application that simulates a live gold investment platform. This project utilizes a custom Node.js backend to push real-time price updates to the client, process user investments, log transaction data, generate PDF receipts, and mock confirmation emails.
 
